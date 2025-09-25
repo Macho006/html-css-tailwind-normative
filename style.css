@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.h1 {
+    text-align: center;
+    color: red;
+}
+.p {
+    text-align: center;
+    color: green;
+    background-color: yellow;
+}
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    border-radius: 15px;
+    padding: 10px;
+    color: white;
+}
